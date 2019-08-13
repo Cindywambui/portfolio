@@ -1,9 +1,63 @@
-h1{
-    color: brown
+body{
+    background-color: black;
 }
-h2 {
-    color: brown
+nav{
+    background-color: yellow;
+    height: 90px;
+    line-height: 30px;
+    
 }
-img{
+nav ul{
+   list-style-type: none;
+   margin: o;
+   padding: 0;
+}
+nav ul li{
     float: left;
+    padding: 40px;
+}
+nav li a {
+    display: block;
+    color: white;
+    padding: 9px 17px;
+    text-decoration: none;
+}
+.wrap img{
+    border-radius: 200px;
+}
+.wrap p{
+    color: white;
+}
+.heading{
+    float: right;
+    width: 600px;
+    /* background:white; */
+    margin-right: 1100px;
+    box-shadow: 20px;
+    letter-spacing: 2px;
+}
+h1{
+    color: white;
+}
+.projects{
+    clear: both;
+    background-color: blue;
+    height: 360px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+.project1{
+ float: right;
+ width: 33%;
+}
+.project2{
+float: left;
+width: 33%;
+}
+.project3{
+padding-top: 1px;
 }
