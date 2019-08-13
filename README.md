@@ -25,7 +25,7 @@ GitHub profile [Cindy wambui]
 
 Primary email address:montanacindy5@gmail.com
 
-Live link:
+Live link: https://cindywambui.github.io/portfolio/
 ### License
 MIT Lisence
 
