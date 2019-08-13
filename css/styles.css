@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 nav{
-    background-color: yellow;
+    background-color: #d4cb90;
     height: 90px;
     line-height: 30px;
     
@@ -23,33 +23,35 @@ nav li a {
     text-decoration: none;
 }
 .wrap img{
-    border-radius: 200px;
+    border-radius: 1700px;
 }
 .wrap p{
+    color: white;
+}
+.wrap h1{
     color: white;
 }
 .heading{
     float: right;
     width: 600px;
-    /* background:white; */
     margin-right: 1100px;
     box-shadow: 20px;
     letter-spacing: 2px;
 }
-h1{
+/* h1{
     color: white;
-}
+} */
 .projects{
     clear: both;
-    background-color: blue;
+    background-color:#d4cb90;
     height: 360px;
 }
-h2{
+/* h2{
     color: white;
 }
 p{
     color: white;
-}
+} */
 .project1{
  float: right;
  width: 33%;
@@ -60,4 +62,47 @@ width: 33%;
 }
 .project3{
 padding-top: 1px;
+}
+#projects h1{
+    text-transform: uppercase;
+    font-size: 50px;
+} 
+.education{
+    height: 360px;
+    background-color: #d4cb90;
+    margin-top: 40px;
+}
+/* .education  p{
+    color:black;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    float: right;
+} */
+.pic{
+    height: 360px;
+    /* background-color: #d4cb90; */
+    margin-top: 40px;
+}
+.pic img{
+    height: 100%;
+    width: 100%;    
+}
+.job p{
+    color: white;
+}
+span{
+    font-weight: bold;
+    margin-left: 7px;
+    
+}
+.part1{
+    width: 50%;
+    /* background-color: blue; */
+    float: left;
+}
+.part2{
+    width: 50%;
+    /* background-color: blue; */
+    float: right;
 }
