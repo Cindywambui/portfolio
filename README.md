@@ -1,4 +1,4 @@
- #{HONEY COMB}
+# HONEY COMB
 #### A Web portfolio , {12th of august 2019}
 #### By **Cindy wambui**
 ## Description
